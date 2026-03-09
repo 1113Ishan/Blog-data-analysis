@@ -1,6 +1,7 @@
 Blog Data Analysis Project
 
 Overview
+
 This project is my attempt at analyzing blog data using Python and a BI tool. The goal was to understand how my blog posts are performing—like which articles get the most views, which topics are popular, and how traffic changes over time. I also wanted to practice Python, API handling, data cleaning, and creating dashboards.
 
 What I Did
