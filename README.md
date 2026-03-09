@@ -27,3 +27,6 @@ What I Did
 - BI Tool – Making dashboards and visual cards
 - Git/GitHub – Managing code and version control
 - Learned how to deal with API errors (403), Python module issues, and dashboard aggregation settings
+
+
+<img width="1355" height="765" alt="image" src="https://github.com/user-attachments/assets/69b7910d-5030-46fe-a0ff-2f395a07ee09" />
